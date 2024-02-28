@@ -1,5 +1,5 @@
 {
-  "version": "0.0.2",
+  "version": "0.0.3",
   "name": "on-demand-vite-layer",
   "description": "tov-template 的核心，按需，性能更好",
   "type": "module",
